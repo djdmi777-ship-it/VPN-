@@ -1,0 +1,5 @@
+# Клиентские конфиги содержат приватные ключи WireGuard/AmneziaWG — не коммитим
+client-toggle/*.conf
+client-toggle/*.png
+*.conf
+*.png
